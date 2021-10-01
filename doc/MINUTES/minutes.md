@@ -22,9 +22,9 @@ o	Further Shelter info identifies:
 # 28 September 2021
 *	Reviewed progress on RF-2
 *	Discussed further updates from clients:
-o	Acuity Scheduling, – $25 monthly, for scheduling
-o	FoodPantryManager.org –$140 a year, used to generating reports
-o	Still pending feedback from preferred vender
+1.	Acuity Scheduling, – $25 monthly, for scheduling
+2.	FoodPantryManager.org –$140 a year, used to generating reports
+3.	Still pending feedback from preferred vender
 *	Reviewed FoodPantryManager.org features
 *	Reviewed No Kill website
 *	Revisit to No Kill will be scheduled for 2 October
