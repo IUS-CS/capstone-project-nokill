@@ -1,0 +1,32 @@
+/*---------------------------
+   Welcome Notice Styling
+----------------------------*/
+.clean-design-blog-welcome-notice .notice-content-wrap {
+    display: flex;
+}
+
+.clean-design-blog-welcome-notice .notice-dismiss-button {
+    text-align: right;
+    padding-bottom: 10px;
+}
+
+.clean-design-blog-welcome-notice .notice-dismiss-button a {
+    color: #ff0000;
+}
+
+.clean-design-blog-welcome-notice .notice-highlight {
+    font-weight: 500;
+    font-size: 1.1rem;
+}
+
+.clean-design-blog-welcome-notice .notice-content {
+    padding: 0px 20px;
+}
+
+.clean-design-blog-welcome-notice .notice-actions {
+    padding-top: 15px;
+}
+
+.clean-design-blog-welcome-notice .notice-actions a {
+    padding: 6px 22px;
+}

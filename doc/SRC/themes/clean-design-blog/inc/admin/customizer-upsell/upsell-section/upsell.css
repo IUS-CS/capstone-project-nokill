@@ -1,0 +1,146 @@
+#accordion-section-upsell_button a.button:hover{
+	background-color: #0071a1;
+	color: #fff;
+	opacity: 0.9;
+}
+
+.control-section-clean-design-blog-upsell-button {
+	background-color: #f0f0f0;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.control-section-clean-design-blog-upsell-button a.button{
+	background-color: #0071a1;
+    color: #fff;
+}
+
+#accordion-section-upgrade_section h3.accordion-section-title{
+    color: #0071a1;
+}
+
+#accordion-section-demo_import_button {
+	background-color: #ffffff;
+    padding: 10px 0;
+    text-align: left;
+    padding-left: 20px;
+}
+
+#accordion-section-demo_import_button .upsell_field_txt {
+	vertical-align: middle;
+    display: inline-block;
+    padding-top: 5px;
+    font-weight: bold;
+    padding-right: 35px;
+}
+
+#accordion-section-demo_import_button a.button:hover {
+	background-color: #0071a1;
+	color: #fff;
+	opacity: 0.9;
+}
+
+.customize-control-radio-tab .buttonset {
+	display: flex;
+}
+
+.customize-control-radio-tab .radio-tab-single-wrap {
+	text-align: center;
+	flex: 50%;
+}
+
+
+.customize-control-radio-tab .buttonset {
+	display: flex;
+}
+
+.customize-control-radio-tab .radio-tab-single-wrap {
+	text-align: center;
+	flex: 50%;
+}
+#accordion-section-upsell_button a.button:hover{
+	background-color: #0071a1;
+	color: #fff;
+	opacity: 0.9;
+}
+
+
+#accordion-section-upgrade_section h3.accordion-section-title{
+    color: #0071a1;
+}
+
+#customize-control-upgrade_settings	.customize-control-description,
+#customize-control-homepage_info_settings .customize-control-description
+ {
+	text-align: center;
+    font-size: 20px;
+	padding-bottom: 4px;
+	color: #ff0000;
+	border-bottom: 1px solid #ff0000;
+}
+
+#customize-control-upgrade_settings ul.item-wrap{
+	list-style: disc;
+	margin-left: 25px;
+	font-size: 14px;
+	line-height: 1.2;
+}
+
+#accordion-section-demo_import_button {
+	background-color: #ffffff;
+    padding: 10px 0;
+    text-align: left;
+    padding-left: 20px;
+}
+
+#accordion-section-demo_import_button .upsell_field_txt {
+	vertical-align: middle;
+    display: inline-block;
+    padding-top: 5px;
+    font-weight: bold;
+    padding-right: 35px;
+}
+
+#accordion-section-demo_import_button a.button:hover {
+	background-color: #0071a1;
+	color: #fff;
+	opacity: 0.9;
+}
+
+/*Upgrade Text*/
+.customize-control-clean-design-blog-upsell-info {
+    background: #FFFFFF;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.customize-control-clean-design-blog-upsell-info label {
+    padding: 0 0 0 26px;
+    display: block;
+}
+
+.customize-control-clean-design-blog-upsell-info .dashicons {
+    float: left;
+    margin-left: -26px;
+}
+
+.customize-control-clean-design-blog-upsell-info ul {
+    margin: 8px 0 7px 16px;
+    font-style: italic;
+}
+
+.customize-control-clean-design-blog-upsell-info ul li {
+    margin-bottom: 3px;
+    padding-left: 8px;
+    line-height: 1.3;
+}
+
+.customize-control-clean-design-blog-upsell-info ul li:before { 
+    content: '- ';
+    margin-left: -8px;
+}
+
+.customize-control-clean-design-blog-upsell-info .comparison-button {
+	display: block;
+	text-align: center;	
+}

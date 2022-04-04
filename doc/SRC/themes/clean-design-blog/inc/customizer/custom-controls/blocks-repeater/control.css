@@ -1,0 +1,354 @@
+
+.clean-design-blog-block {
+    background-color: #ffffff;
+    margin-bottom: 15px;
+}
+
+.clean-design-blog-block .block-content-wrap {
+    display: none;
+}
+
+.clean-design-blog-block .block-header {
+    display: flex;
+    border: 1px solid #343434;
+    align-items: center;
+    border-radius: 2px;
+}
+
+.clean-design-blog-block .block-header .block-header-title {
+    flex: 1 1 80%;
+    padding-left: 15px;
+}
+
+.clean-design-blog-block .block-header .block-header-icon{
+    flex: 1 1 10%;
+    text-align: center;
+}
+
+.clean-design-blog-block .block-content-wrap {
+    padding: 15px;
+}
+
+.blocks-repeater-control-wrap input, .blocks-repeater-control-wrap select {
+    border-radius: 0;
+}
+
+.blocks-repeater-control-wrap .block-name-list, .blocks-repeater-control-wrap .block-name-list .clean-design-blog-block {
+    display: none;
+}
+
+.clean-design-blog-block.open .block-content-wrap {
+    display: block;
+}
+
+/** Block Header **/
+.block-header.content-trigger:hover{
+    cursor: pointer;
+}
+
+.block-header.content-trigger .block-header-title:hover {
+    cursor: all-scroll;
+}
+
+
+
+/** Select field **/
+.customize-text-field label,
+.customize-select-field label,
+.customize-number-field label,
+.customize-toggle-field label,
+.customize-radio-image-field label,
+.customize-multicheckbox-field > label {
+    color: #000000;
+    font-weight: 500;
+    font-size: 12px;
+    display: inline-block;
+    padding-bottom: 5px;
+    line-height: 16px;
+    width: 105px;
+    margin-right: 5px;
+}
+
+.customize-text-field p.description,
+.customize-select-field p.description,
+.customize-number-field p.description,
+.customize-toggle-field p.description,
+.customize-radio-image-field p.description {
+    font-size: 11px;
+    font-style: italic;
+}
+
+.customize-select-field,
+.customize-number-field,
+.customize-toggle-field,
+.customize-radio-image-field {
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+
+/*** Checkbox field **/
+.customize-checkbox-field label{
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    padding-bottom: 10px;
+}
+
+.customize-checkbox-field input {
+    order: 2;
+}
+
+.customize-checkbox-field p {
+    flex: 1 1 80%;
+    order: 1;
+    font-size: 14px;
+}
+
+/** Action button **/
+
+.block-content-wrap .action-buttons {
+   margin-top: 20px;
+    border-top: 1px solid #b89393;
+    text-align: right;
+    color: #0d5257;
+    font-weight: 500; 
+
+}
+
+.block-content-wrap .action-buttons:hover {
+    cursor: pointer;
+}
+
+.block-content-wrap .action-buttons .close-block{
+    color: inherit;
+    display: inline-block;
+}
+
+.block-content-wrap .action-buttons .remove-block{
+    display: inline-block;
+    border-left: 1px solid #b89393;
+    padding-left: 4px;
+    color: red;
+    margin-top: 3px;
+}
+
+/*------------------------------
+    Toggle Control
+------------------------------*/
+.blocks-repeater-control-wrap .toggle-button {
+    position: relative;
+    display: inline-block;
+    background-color: #ccc;
+    width: 60px;
+    height: 25px;
+    border-radius: 3px;
+}
+
+.blocks-repeater-control-wrap .customize-toggle-field input { 
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.blocks-repeater-control-wrap .toggle-button:before {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: -24px;
+    right: 0;
+    bottom: 0;
+    background-color: #fff;
+    -webkit-transition: .4s;
+    transition: .4s;
+    width: 10px;
+    border-radius: 5px;
+    height: 21px;
+    top: 2px;
+    cursor: pointer;
+}
+
+.blocks-repeater-control-wrap .toggle-button:hover {
+    cursor: pointer;
+}
+
+.blocks-repeater-control-wrap .customize-toggle-field .on{
+    color: #fff;
+    padding: 5.5px 0 0 10px;
+    display: inline-block;
+    line-height: 1;
+}
+
+.blocks-repeater-control-wrap .customize-toggle-field .off {
+    color: #1d2c33;
+    font-weight: bold;
+    margin-left: -4px;
+    line-height: 1;
+}
+
+.blocks-repeater-control-wrap .customize-toggle-field .toggle-button:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+}
+
+.blocks-repeater-control-wrap .customize-toggle-field.checked-toggle-control .toggle-button {
+    background-color: #1d2c33;
+    border-radius: 3px;
+    vertical-align: top;
+}
+
+.blocks-repeater-control-wrap .customize-toggle-field.checked-toggle-control .toggle-button:before {
+    height: 21px;
+    width: 8px;
+    left: 2px;
+    left: 21px;
+    top: 2px;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+.blocks-repeater-control-wrap  .customize-toggle-field {
+    display: flex;
+}
+
+.blocks-repeater-control-wrap  .customize-toggle-field  label {
+    flex: 1 1 60%;
+    line-height: 1.5;
+}
+
+.customize-toggle-field p,
+.customize-radio-image-field p {
+   margin: 0.5em;
+}
+
+/** Adding Blocks **/
+
+ul.block-name-list{
+    display: block;
+    background-color: rgb(255, 255, 255);
+    margin: 15px 7px;
+    box-sizing: border-box;
+    padding: 15px 10px;
+    border-radius: 10px;
+    border: 1px dotted #2271b1;
+}
+
+ul.block-name-list li {
+    font-size: 17px;
+    font-weight: 500;
+    border: 1px solid #857a7a;
+    padding: 12px;
+    margin-bottom: 10px;
+    position: relative;
+    border-radius: 3px;
+}
+
+ul.block-name-list li:hover {
+    cursor: pointer;
+    opacity: 0.9;
+}
+
+ul.block-name-list li:hover:after {
+    content: 'Add';
+    position: absolute;
+    right: 0;
+    bottom: 10px;
+    font-size: 14px;
+    background-color: #2271b1;
+    color: #fff;
+    padding: 4px 5px 4.5px 8px;
+    border-radius: 15px 0 0 15px;
+    vertical-align: middle;
+    line-height: 13px;
+}
+
+/** Clone and add new block **/
+
+.button.add-new-block .dashicons {
+    display: inline-block;
+    position: relative;
+    left: -2px;
+    top: 0px;
+    font: 400 18px/1 dashicons;
+    vertical-align: middle;
+}
+
+.button.clone-block:before {
+    content: "\f515";
+    display: inline-block;
+    position: relative;
+    left: -2px;
+    top: 0px;
+    font: 400 18px/1 dashicons;
+    vertical-align: middle;
+}
+
+.button.add-new-block,
+.button.clone-block {
+    margin-bottom: 5px;
+}
+
+
+.radio-image-single img {
+    width: 100%;
+}
+
+.radio-image-single {
+    position: relative;
+}
+
+.radio-image-single.selected:after {
+    content: "\f12a";
+    display: inline-block;
+    position: absolute;
+    right: -5px;
+    bottom: 3px;
+    font: 900 25px/1 dashicons;
+    vertical-align: middle;
+    color: #3582c4;
+}
+
+/** Multicheckbox Control **/
+.customize-multicheckbox-field .multicheckbox-content {
+    border: 1px solid #c3c4c7;
+    padding: 8px 10px;
+    min-height: 200px;
+    overflow-y: scroll;
+}
+
+.customize-multicheckbox-field .multicheckbox-content .multicheckbox-single-item {
+    padding: 5px;
+}
+
+/* Social icon **/
+#customize-control-site_social_icons .social-repeater-general-control-icon .customize-control-title {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+#customize-control-site_social_icons .customize-control-title:after {
+    display: none;
+}
+
+#customize-control-site_social_icons .customizer-repeater-box-content-hidden span.description {
+    padding: 5px 0;
+    font-size: 14px;
+}
+
+#customize-control-site_social_icons .icp-container .input-group-addon {
+    position: relative;
+    height: 20px;
+    display: block;
+    font-size: 25px;
+}
+
+#customize-control-site_social_icons .customizer-repeater-checkbox-control {
+    margin-bottom: 0!important;
+}
+
+#customize-control-site_social_icons span.customize-control-title{
+    display: inline;
+    font-weight: 400;
+    font-size: 14px;
+}
