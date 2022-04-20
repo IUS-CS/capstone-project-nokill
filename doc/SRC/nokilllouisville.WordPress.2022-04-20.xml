@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.9.2" created="2022-03-30 02:19" -->
+	<!-- generator="WordPress/5.9.3" created="2022-04-20 00:22" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>No Kill Louisville</title>
 	<link>https://capstonenokill.com</link>
 	<description>We envision our community as a place where no adoptable pet or feral cat is killed, regardless of resources, economics, or politics.</description>
-	<pubDate>Wed, 30 Mar 2022 02:19:15 +0000</pubDate>
+	<pubDate>Wed, 20 Apr 2022 00:22:56 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://capstonenokill.com</wp:base_site_url>
@@ -258,7 +258,7 @@
 	<wp:term><wp:term_id>4</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
 
 <image>
 	<url>https://capstonenokill.com/wp-content/uploads/2022/01/originalLogoScaled-100x100.jpg</url>
@@ -7165,13 +7165,13 @@
 		<dc:creator><![CDATA[Amanda]]></dc:creator>
 		<guid isPermaLink="false">http://capstonenokill.com/?page_id=141</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:user-registration/form-selector {"formId":"552"} /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>141</wp:post_id>
 		<wp:post_date><![CDATA[2022-01-28 18:22:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-01-28 18:22:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-01-28 18:22:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-01-28 18:22:01]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-04-05 19:24:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-05 23:24:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[volunteer-application]]></wp:post_name>
@@ -7183,7 +7183,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_aioseo_title]]></wp:meta_key>
@@ -8273,7 +8273,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Hello world!]]></title>
-		<link>https://capstonenokill.com/hello-world/</link>
+		<link>https://capstonenokill.com/?p=1</link>
 		<pubDate>Fri, 31 Dec 2021 01:55:51 +0000</pubDate>
 		<dc:creator><![CDATA[joncleme@iu.edu]]></dc:creator>
 		<guid isPermaLink="false">http://capstonenokill.com/?p=1</guid>
@@ -8285,19 +8285,35 @@
 		<wp:post_id>1</wp:post_id>
 		<wp:post_date><![CDATA[2021-12-31 01:55:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-12-31 01:55:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-31 01:55:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-31 01:55:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-04-03 17:01:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-03 21:01:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[hello-world__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:comment>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1649019718]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
 			<wp:comment_id>1</wp:comment_id>
 			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
@@ -8308,70 +8324,12 @@
 			<wp:comment_content><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
 Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
 			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
 					</item>
-					<item>
-		<title><![CDATA[Sample Page]]></title>
-		<link>https://capstonenokill.com/?page_id=2</link>
-		<pubDate>Fri, 31 Dec 2021 01:55:51 +0000</pubDate>
-		<dc:creator><![CDATA[joncleme@iu.edu]]></dc:creator>
-		<guid isPermaLink="false">http://capstonenokill.com/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="http://capstonenokill.com/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2021-12-31 01:55:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-12-31 01:55:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-03-14 15:35:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-03-14 19:35:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1647286500]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[sample-page]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
 					<item>
 		<title><![CDATA[Pet Food Bank Provisions 2014]]></title>
 		<link>https://capstonenokill.com/pet-food-bank-provisions-2014/</link>
@@ -9771,6 +9729,152 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Reverse Tie-Dye T-shirt]]></title>
+		<link>https://capstonenokill.com/product/reverse-tie-dye-t-shirt/</link>
+		<pubDate>Tue, 01 Mar 2022 18:31:50 +0000</pubDate>
+		<dc:creator><![CDATA[Amanda]]></dc:creator>
+		<guid isPermaLink="false">https://capstonenokill.com/?post_type=product&#038;p=433</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>Reverse Tie-Dye No Kill Louisville T-shirt. Colors and patterns will vary.</strong>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>433</wp:post_id>
+		<wp:post_date><![CDATA[2022-03-01 13:31:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-03-01 18:31:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-03-03 13:19:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-03-03 18:19:25]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[reverse-tie-dye-t-shirt]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[product]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="product_cat" nicename="apparel"><![CDATA[Apparel]]></category>
+		<category domain="product_type" nicename="variable"><![CDATA[variable]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[6.2.1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_attributes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:4:"size";a:6:{s:4:"name";s:4:"Size";s:5:"value";s:41:"Small | Medium | Large | XLarge | 2X | 3X";s:8:"position";i:0;s:10:"is_visible";i:1;s:12:"is_variation";i:1;s:11:"is_taxonomy";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[25.00]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[435]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_aioseo_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#post_title #separator_sa #site_title]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_aioseo_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#post_excerpt]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_aioseo_keywords]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_aioseo_og_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_aioseo_og_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_aioseo_og_article_section]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_aioseo_og_article_tags]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_aioseo_twitter_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_aioseo_twitter_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Tie-Dye T-shirt]]></title>
 		<link>https://capstonenokill.com/product/tie-dye-t-shirt/</link>
 		<pubDate>Tue, 01 Mar 2022 18:31:03 +0000</pubDate>
@@ -9917,31 +10021,101 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Booking Calendar]]></title>
-		<link>https://capstonenokill.com/?page_id=512</link>
-		<pubDate>Fri, 18 Mar 2022 02:32:00 +0000</pubDate>
-		<dc:creator><![CDATA[joncleme@iu.edu]]></dc:creator>
-		<guid isPermaLink="false">https://capstonenokill.com/?page_id=512</guid>
+		<title><![CDATA[Pride T-shirt]]></title>
+		<link>https://capstonenokill.com/product/pride-t-shirt/</link>
+		<pubDate>Thu, 03 Mar 2022 17:57:57 +0000</pubDate>
+		<dc:creator><![CDATA[Amanda]]></dc:creator>
+		<guid isPermaLink="false">https://capstonenokill.com/?post_type=product&#038;p=461</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[<strong>No Kill Louisville logo in rainbow colors on a white t-shirt.</strong>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>512</wp:post_id>
-		<wp:post_date><![CDATA[2022-03-17 22:32:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-03-18 02:32:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-03-17 22:32:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-03-18 02:32:01]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:post_id>461</wp:post_id>
+		<wp:post_date><![CDATA[2022-03-03 12:57:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-03-03 17:57:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-03-03 13:18:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-03-03 18:18:34]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_name><![CDATA[pride-t-shirt]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
+										<category domain="product_cat" nicename="apparel"><![CDATA[Apparel]]></category>
+		<category domain="product_type" nicename="variable"><![CDATA[variable]]></category>
+						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_attributes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:4:"size";a:6:{s:4:"name";s:4:"Size";s:5:"value";s:87:"Small (out of stock) | Medium | Large | X-Large | 2X (out of stock) | 3X (out of stock)";s:8:"position";i:0;s:10:"is_visible";i:1;s:12:"is_variation";i:1;s:11:"is_taxonomy";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[6.2.1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[462]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_aioseo_title]]></wp:meta_key>
@@ -9949,7 +10123,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_aioseo_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#post_content]]></wp:meta_value>
+		<wp:meta_value><![CDATA[#post_excerpt]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_aioseo_keywords]]></wp:meta_key>
@@ -9980,46 +10154,114 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1647570720]]></wp:meta_value>
+		<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[20.00]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Booking Calendar]]></title>
-		<link>https://capstonenokill.com/?page_id=515</link>
-		<pubDate>Fri, 18 Mar 2022 02:49:14 +0000</pubDate>
-		<dc:creator><![CDATA[joncleme@iu.edu]]></dc:creator>
-		<guid isPermaLink="false">https://capstonenokill.com/?page_id=515</guid>
+		<title><![CDATA[No Kill Louisville T-shirt (white)]]></title>
+		<link>https://capstonenokill.com/product/no-kill-louisville-t-shirt-white/</link>
+		<pubDate>Thu, 03 Mar 2022 18:11:17 +0000</pubDate>
+		<dc:creator><![CDATA[Amanda]]></dc:creator>
+		<guid isPermaLink="false">https://capstonenokill.com/?post_type=product&#038;p=464</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:booking/booking {"wpbc_shortcode":"[booking]"} -->
-<div class="wp-block-booking-booking">[booking]</div>
-<!-- /wp:booking/booking -->]]></content:encoded>
+		<content:encoded><![CDATA[<strong>This is the first look of the "No Kill Louisville" t-shirts. Many thanks for supporting our cause to help all companion pets in Louisville by not only buying a shirt and helping us raise money, but also wearing the shirt out so others can be drawn to help with this cause.</strong>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>515</wp:post_id>
-		<wp:post_date><![CDATA[2022-03-17 22:49:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-03-18 02:49:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-03-18 20:47:31]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-03-19 00:47:31]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:post_id>464</wp:post_id>
+		<wp:post_date><![CDATA[2022-03-03 13:11:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-03-03 18:11:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-03-03 13:18:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-03-03 18:18:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[booking-calendar__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_name><![CDATA[no-kill-louisville-t-shirt-white]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
+										<category domain="product_cat" nicename="apparel"><![CDATA[Apparel]]></category>
+		<category domain="product_type" nicename="variable"><![CDATA[variable]]></category>
+						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_attributes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:4:"size";a:6:{s:4:"name";s:4:"Size";s:5:"value";s:42:"Small | Medium | Large | X-Large | 2X | 3X";s:8:"position";i:0;s:10:"is_visible";i:1;s:12:"is_variation";i:1;s:11:"is_taxonomy";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[6.2.1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[20.00]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_aioseo_title]]></wp:meta_key>
@@ -10027,7 +10269,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_aioseo_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#post_content]]></wp:meta_value>
+		<wp:meta_value><![CDATA[#post_excerpt]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_aioseo_keywords]]></wp:meta_key>
@@ -10058,16 +10300,16 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1647650851]]></wp:meta_value>
+		<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[booking-calendar]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[468]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -10333,6 +10575,86 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
+		<title><![CDATA[Primary Menu]]></title>
+		<link>https://capstonenokill.com/primary-menu/</link>
+		<pubDate>Sat, 05 Feb 2022 21:54:00 +0000</pubDate>
+		<dc:creator><![CDATA[Amanda]]></dc:creator>
+		<guid isPermaLink="false">https://capstonenokill.com/primary-menu/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:navigation-submenu {"label":"Home","type":"page","id":40,"url":"https://capstonenokill.com/","kind":"post-type"} -->
+<!-- wp:navigation-link {"label":"Contact Us","type":"page","id":127,"url":"https://capstonenokill.com/contact-us/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"The No Kill Model","type":"page","id":131,"url":"https://capstonenokill.com/the-no-kill-model/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"NKL Newsletter","type":"page","id":133,"url":"https://capstonenokill.com/nkl-newsletter/","kind":"post-type"} /-->
+<!-- /wp:navigation-submenu -->
+
+<!-- wp:navigation-link {"label":"Events","type":"page","id":71,"url":"https://capstonenokill.com/events/","kind":"post-type"} /-->
+
+<!-- wp:navigation-submenu {"label":"How to Help","type":"page","id":72,"url":"https://capstonenokill.com/how-to-help/","kind":"post-type"} -->
+<!-- wp:navigation-link {"label":"Foster","type":"page","id":137,"url":"https://capstonenokill.com/foster/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Volunteer","type":"page","id":139,"url":"https://capstonenokill.com/volunteer/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Adopt","type":"page","id":143,"url":"https://capstonenokill.com/adopt/","kind":"post-type"} /-->
+<!-- /wp:navigation-submenu -->
+
+<!-- wp:navigation-link {"label":"Pet Food Bank","type":"page","id":73,"url":"https://capstonenokill.com/pet-food-bank/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Merchandise","type":"page","id":74,"url":"https://capstonenokill.com/merchandise/","kind":"post-type"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>354</wp:post_id>
+		<wp:post_date><![CDATA[2022-02-05 16:24:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-02-05 21:54:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-02-05 16:24:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-05 21:54:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[primary-menu]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Pet Food Bank Provisions]]></title>
+		<link>https://capstonenokill.com/pet-food-bank-provisions-2/</link>
+		<pubDate>Sat, 05 Feb 2022 22:16:05 +0000</pubDate>
+		<dc:creator><![CDATA[Amanda]]></dc:creator>
+		<guid isPermaLink="false">https://capstonenokill.com/pet-food-bank-provisions-2/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"2013","type":"page","id":306,"url":"https://capstonenokill.com/pet-food-bank-provisions-2013/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"2014","type":"page","id":318,"url":"https://capstonenokill.com/pet-food-bank-provisions-2014/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"2015","type":"page","id":322,"url":"https://capstonenokill.com/pet-food-bank-provisions-2015/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"2016","type":"page","id":326,"url":"https://capstonenokill.com/pet-food-bank-provisions-2016/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"2017","type":"page","id":328,"url":"https://capstonenokill.com/pet-food-bank-provisions-2017/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"2018","type":"page","id":337,"url":"https://capstonenokill.com/pet-food-bank-provisions-2018/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"2019","type":"page","id":339,"url":"https://capstonenokill.com/pet-food-bank-provisions-2019/","kind":"post-type"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>358</wp:post_id>
+		<wp:post_date><![CDATA[2022-02-05 16:46:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-02-05 22:16:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-02-05 16:46:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-05 22:16:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[pet-food-bank-provisions-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
 		<title><![CDATA[Default form]]></title>
 		<link>https://capstonenokill.com/?post_type=user_registration&#038;p=396</link>
 		<pubDate>Tue, 15 Feb 2022 18:05:02 +0000</pubDate>
@@ -10504,8 +10826,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_id>421</wp:post_id>
 		<wp:post_date><![CDATA[2022-02-20 17:16:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-02-20 22:16:41]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-03-06 21:27:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-03-07 02:27:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-04-16 17:02:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-16 21:02:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[food-bank]]></wp:post_name>
@@ -10521,7 +10843,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:31:{s:12:"_EventOrigin";i:1645377304;s:10:"_edit_last";i:1645377316;s:10:"post_title";i:1645377316;s:11:"post_status";i:1645377401;s:13:"_aioseo_title";i:1645377401;s:19:"_aioseo_description";i:1645377401;s:16:"_aioseo_keywords";i:1645377401;s:16:"_aioseo_og_title";i:1645377401;s:22:"_aioseo_og_description";i:1645377401;s:26:"_aioseo_og_article_section";i:1645377401;s:23:"_aioseo_og_article_tags";i:1645377401;s:21:"_aioseo_twitter_title";i:1645377401;s:27:"_aioseo_twitter_description";i:1645377401;s:12:"post_content";i:1645377401;s:19:"site-sidebar-layout";i:1645377401;s:19:"site-content-layout";i:1645377401;s:17:"_EventShowMapLink";i:1645377401;s:13:"_EventShowMap";i:1645377401;s:15:"_EventStartDate";i:1646602057;s:13:"_EventEndDate";i:1646602057;s:18:"_EventStartDateUTC";i:1646602057;s:16:"_EventEndDateUTC";i:1646602057;s:14:"_EventDuration";i:1645377401;s:20:"_EventCurrencySymbol";i:1645377401;s:22:"_EventCurrencyPosition";i:1645377401;s:10:"_EventCost";i:1645377401;s:9:"_EventURL";i:1645377401;s:14:"_EventTimezone";i:1645377401;s:18:"_EventTimezoneAbbr";i:1646602057;s:13:"_thumbnail_id";i:1645378007;s:29:"theme-transparent-header-meta";i:1646602057;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:32:{s:12:"_EventOrigin";i:1645377304;s:10:"_edit_last";i:1645377316;s:10:"post_title";i:1645377316;s:11:"post_status";i:1645377401;s:13:"_aioseo_title";i:1645377401;s:19:"_aioseo_description";i:1645377401;s:16:"_aioseo_keywords";i:1645377401;s:16:"_aioseo_og_title";i:1645377401;s:22:"_aioseo_og_description";i:1645377401;s:26:"_aioseo_og_article_section";i:1645377401;s:23:"_aioseo_og_article_tags";i:1645377401;s:21:"_aioseo_twitter_title";i:1645377401;s:27:"_aioseo_twitter_description";i:1645377401;s:12:"post_content";i:1645377401;s:19:"site-sidebar-layout";i:1645377401;s:19:"site-content-layout";i:1645377401;s:17:"_EventShowMapLink";i:1645377401;s:13:"_EventShowMap";i:1645377401;s:15:"_EventStartDate";i:1650128527;s:13:"_EventEndDate";i:1650128527;s:18:"_EventStartDateUTC";i:1650128527;s:16:"_EventEndDateUTC";i:1650128527;s:14:"_EventDuration";i:1645377401;s:20:"_EventCurrencySymbol";i:1645377401;s:22:"_EventCurrencyPosition";i:1645377401;s:10:"_EventCost";i:1645377401;s:9:"_EventURL";i:1645377401;s:14:"_EventTimezone";i:1645377401;s:18:"_EventTimezoneAbbr";i:1646602057;s:13:"_thumbnail_id";i:1645378007;s:29:"theme-transparent-header-meta";i:1646602057;s:18:"_EventCurrencyCode";i:1650128527;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -10581,19 +10903,19 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_EventStartDate]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-04-02 12:00:00]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2022-05-07 12:00:00]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_EventEndDate]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-04-02 15:00:00]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2022-05-07 15:00:00]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_EventStartDateUTC]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-04-02 16:00:00]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2022-05-07 16:00:00]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_EventEndDateUTC]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-04-02 19:00:00]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2022-05-07 19:00:00]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_EventDuration]]></wp:meta_key>
@@ -10631,151 +10953,9 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:meta_key><![CDATA[theme-transparent-header-meta]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Reverse Tie-Dye T-shirt]]></title>
-		<link>https://capstonenokill.com/product/reverse-tie-dye-t-shirt/</link>
-		<pubDate>Tue, 01 Mar 2022 18:31:50 +0000</pubDate>
-		<dc:creator><![CDATA[Amanda]]></dc:creator>
-		<guid isPermaLink="false">https://capstonenokill.com/?post_type=product&#038;p=433</guid>
-		<description></description>
-		<content:encoded><![CDATA[<strong>Reverse Tie-Dye No Kill Louisville T-shirt. Colors and patterns will vary.</strong>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>433</wp:post_id>
-		<wp:post_date><![CDATA[2022-03-01 13:31:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-03-01 18:31:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-03-03 13:19:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-03-03 18:19:25]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[reverse-tie-dye-t-shirt]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_cat" nicename="apparel"><![CDATA[Apparel]]></category>
-		<category domain="product_type" nicename="variable"><![CDATA[variable]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+		<wp:meta_key><![CDATA[_EventCurrencyCode]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6.2.1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_attributes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:4:"size";a:6:{s:4:"name";s:4:"Size";s:5:"value";s:41:"Small | Medium | Large | XLarge | 2X | 3X";s:8:"position";i:0;s:10:"is_visible";i:1;s:12:"is_variation";i:1;s:11:"is_taxonomy";i:0;}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[25.00]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[435]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseo_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#post_title #separator_sa #site_title]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseo_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#post_excerpt]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseo_keywords]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseo_og_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseo_og_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseo_og_article_section]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseo_og_article_tags]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseo_twitter_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseo_twitter_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -10981,152 +11161,6 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 					<item>
 		<title><![CDATA[Pride T-shirt]]></title>
 		<link>https://capstonenokill.com/product/pride-t-shirt/</link>
-		<pubDate>Thu, 03 Mar 2022 17:57:57 +0000</pubDate>
-		<dc:creator><![CDATA[Amanda]]></dc:creator>
-		<guid isPermaLink="false">https://capstonenokill.com/?post_type=product&#038;p=461</guid>
-		<description></description>
-		<content:encoded><![CDATA[<strong>No Kill Louisville logo in rainbow colors on a white t-shirt.</strong>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>461</wp:post_id>
-		<wp:post_date><![CDATA[2022-03-03 12:57:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-03-03 17:57:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-03-03 13:18:34]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-03-03 18:18:34]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pride-t-shirt]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_cat" nicename="apparel"><![CDATA[Apparel]]></category>
-		<category domain="product_type" nicename="variable"><![CDATA[variable]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_attributes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:4:"size";a:6:{s:4:"name";s:4:"Size";s:5:"value";s:87:"Small (out of stock) | Medium | Large | X-Large | 2X (out of stock) | 3X (out of stock)";s:8:"position";i:0;s:10:"is_visible";i:1;s:12:"is_variation";i:1;s:11:"is_taxonomy";i:0;}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6.2.1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseo_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#post_title #separator_sa #site_title]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseo_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#post_excerpt]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseo_keywords]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseo_og_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseo_og_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseo_og_article_section]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseo_og_article_tags]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseo_twitter_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseo_twitter_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[20.00]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Pride T-shirt]]></title>
-		<link>https://capstonenokill.com/product/pride-t-shirt/</link>
 		<pubDate>Thu, 03 Mar 2022 17:43:41 +0000</pubDate>
 		<dc:creator><![CDATA[Amanda]]></dc:creator>
 		<guid isPermaLink="false">https://capstonenokill.com/?post_type=product_variation&#038;p=463</guid>
@@ -11226,152 +11260,6 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[20.00]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[No Kill Louisville T-shirt (white)]]></title>
-		<link>https://capstonenokill.com/product/no-kill-louisville-t-shirt-white/</link>
-		<pubDate>Thu, 03 Mar 2022 18:11:17 +0000</pubDate>
-		<dc:creator><![CDATA[Amanda]]></dc:creator>
-		<guid isPermaLink="false">https://capstonenokill.com/?post_type=product&#038;p=464</guid>
-		<description></description>
-		<content:encoded><![CDATA[<strong>This is the first look of the "No Kill Louisville" t-shirts. Many thanks for supporting our cause to help all companion pets in Louisville by not only buying a shirt and helping us raise money, but also wearing the shirt out so others can be drawn to help with this cause.</strong>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>464</wp:post_id>
-		<wp:post_date><![CDATA[2022-03-03 13:11:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-03-03 18:11:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-03-03 13:18:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-03-03 18:18:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[no-kill-louisville-t-shirt-white]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_cat" nicename="apparel"><![CDATA[Apparel]]></category>
-		<category domain="product_type" nicename="variable"><![CDATA[variable]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_attributes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:4:"size";a:6:{s:4:"name";s:4:"Size";s:5:"value";s:42:"Small | Medium | Large | X-Large | 2X | 3X";s:8:"position";i:0;s:10:"is_visible";i:1;s:12:"is_variation";i:1;s:11:"is_taxonomy";i:0;}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6.2.1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[20.00]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseo_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#post_title #separator_sa #site_title]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseo_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#post_excerpt]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseo_keywords]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseo_og_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseo_og_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseo_og_article_section]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseo_og_article_tags]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseo_twitter_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseo_twitter_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[468]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -12213,85 +12101,73 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Primary Menu]]></title>
-		<link>https://capstonenokill.com/primary-menu/</link>
-		<pubDate>Sat, 05 Feb 2022 21:54:00 +0000</pubDate>
-		<dc:creator><![CDATA[Amanda]]></dc:creator>
-		<guid isPermaLink="false">https://capstonenokill.com/primary-menu/</guid>
+		<title><![CDATA[Volunteer Form]]></title>
+		<link>https://capstonenokill.com/?post_type=user_registration&#038;p=552</link>
+		<pubDate>Tue, 05 Apr 2022 23:12:29 +0000</pubDate>
+		<dc:creator><![CDATA[jeff]]></dc:creator>
+		<guid isPermaLink="false">https://capstonenokill.com/?post_type=user_registration&#038;p=552</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation-submenu {"label":"Home","type":"page","id":40,"url":"https://capstonenokill.com/","kind":"post-type"} -->
-<!-- wp:navigation-link {"label":"Contact Us","type":"page","id":127,"url":"https://capstonenokill.com/contact-us/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"The No Kill Model","type":"page","id":131,"url":"https://capstonenokill.com/the-no-kill-model/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"NKL Newsletter","type":"page","id":133,"url":"https://capstonenokill.com/nkl-newsletter/","kind":"post-type"} /-->
-<!-- /wp:navigation-submenu -->
-
-<!-- wp:navigation-link {"label":"Events","type":"page","id":71,"url":"https://capstonenokill.com/events/","kind":"post-type"} /-->
-
-<!-- wp:navigation-submenu {"label":"How to Help","type":"page","id":72,"url":"https://capstonenokill.com/how-to-help/","kind":"post-type"} -->
-<!-- wp:navigation-link {"label":"Foster","type":"page","id":137,"url":"https://capstonenokill.com/foster/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"Volunteer","type":"page","id":139,"url":"https://capstonenokill.com/volunteer/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"Adopt","type":"page","id":143,"url":"https://capstonenokill.com/adopt/","kind":"post-type"} /-->
-<!-- /wp:navigation-submenu -->
-
-<!-- wp:navigation-link {"label":"Pet Food Bank","type":"page","id":73,"url":"https://capstonenokill.com/pet-food-bank/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"Merchandise","type":"page","id":74,"url":"https://capstonenokill.com/merchandise/","kind":"post-type"} /-->]]></content:encoded>
+		<content:encoded><![CDATA[[[[{"field_key":"checkbox","general_setting":{"label":"By submitting this Volunteer application, you understand that the scope of your relationship with NKL is limited to a volunteer position and that no compensation is expected in return for services provided. I also understand that I am responsible for my own insurance coverage in the event of personal injury or illness as a result of volunteer services to NKL. Checking this box also grants NKL all rights and title to any and all photographs, images, videos, or audio recordings of me or my likeness in connection with my volunteering for NKL.","description":"","field_name":"check_box_1649197914","options":["I understand"],"required":"yes","hide_label":"no"},"advance_setting":{"custom_class":"","choice_limit":"","select_all":"no","choices":"I understand"},"icon":"ur-icon ur-icon-input-checkbox"}]],[[{"field_key":"first_name","general_setting":{"label":"First Name","description":"","field_name":"first_name","placeholder":"","required":"yes","hide_label":"no"},"advance_setting":{"custom_class":""},"icon":"ur-icon ur-icon-input-first-name"},{"field_key":"last_name","general_setting":{"label":"Last Name","description":"","field_name":"last_name","placeholder":"","required":"yes","hide_label":"no"},"advance_setting":{"custom_class":""},"icon":"ur-icon ur-icon-input-last-name"},{"field_key":"text","general_setting":{"label":"Mailing Address","description":"","field_name":"input_box_1649198084","placeholder":"","required":"yes","hide_label":"no"},"advance_setting":{"size":"50","default_value":"","custom_class":""},"icon":"ur-icon ur-icon-input-field"},{"field_key":"user_email","general_setting":{"label":"User Email","description":"","field_name":"user_email","placeholder":"","required":"yes","hide_label":"no"},"advance_setting":{"custom_class":""},"icon":"ur-icon ur-icon-email"},{"field_key":"text","general_setting":{"label":"Phone Number","description":"","field_name":"input_box_1649198271","placeholder":"","required":"yes","hide_label":"no"},"advance_setting":{"size":"10","default_value":"","custom_class":""},"icon":"ur-icon ur-icon-input-field"},{"field_key":"radio","general_setting":{"label":"Can we text the above number?","description":"","field_name":"radio_1649198440","options":["Yes","No"],"required":"yes","hide_label":"no"},"advance_setting":{"custom_class":"","options":"Yes,No"},"icon":"ur-icon ur-icon-radio"},{"field_key":"textarea","general_setting":{"label":"Why are you interested in volunteering with No Kill Louisville?","description":"","field_name":"textarea_1649198532","placeholder":"","required":"yes","hide_label":"no"},"advance_setting":{"default_value":"","custom_class":""},"icon":"ur-icon ur-icon-textarea"},{"field_key":"textarea","general_setting":{"label":"Have you volunteered or worked with animals in the past? If so, where?","description":"","field_name":"textarea_1649198638","placeholder":"","required":"yes","hide_label":"no"},"advance_setting":{"default_value":"","custom_class":""},"icon":"ur-icon ur-icon-textarea"},{"field_key":"radio","general_setting":{"label":"What is your comfort or skill level with dogs?","description":"","field_name":"radio_1649198826","options":["Highly comfortable with dogs of all sizes/energy levels.","Comfortable and prefer low energy or smaller dogs.","Less comfortable or new to dogs, but willing to learn.","Not comfortable with dogs."],"required":"yes","hide_label":"no"},"advance_setting":{"custom_class":"","options":"Highly comfortable with dogs of all sizes/energy levels.,Comfortable and prefer low energy or smaller dogs.,Less comfortable or new to dogs, but willing to learn.,Not comfortable with dogs."},"icon":"ur-icon ur-icon-radio"},{"field_key":"textarea","general_setting":{"label":"Please describe any restrictions, physical or otherwise, that may affect your work with us. Please list any allergies as well.","description":"","field_name":"textarea_1649198933","placeholder":"","required":"no","hide_label":"no"},"advance_setting":{"default_value":"","custom_class":""},"icon":"ur-icon ur-icon-textarea"},{"field_key":"checkbox","general_setting":{"label":"What area(s) of No Kill Louisville are you looking to get involved with? (check all that apply)","description":"","field_name":"check_box_1649199853","options":["Lost/Found Animals - Help reunite lost/found animals via our website and social media posts.","Second aGrants - Research and fill out grants to help fund our various life saving programs. (Beginners welcome!)","Fundraising","Booths/Adoption Events","Administrative/Clerical","Special Events/Fundraisers","Pet Food Bank (May require physical activities and lifting up to 50 lbs.)","Pet Food Donation Pick Up/Drop Off (Usually requires a truck or large space vehicle.)"],"required":"yes","hide_label":"no"},"advance_setting":{"custom_class":"","choice_limit":"","select_all":"no","choices":"Lost/Found Animals - Help reunite lost/found animals via our website and social media posts.,Second aGrants - Research and fill out grants to help fund our various life saving programs. (Beginners welcome!),Fundraising,Booths/Adoption Events,Administrative/Clerical,Special Events/Fundraisers,Pet Food Bank (May require physical activities and lifting up to 50 lbs.),Pet Food Donation Pick Up/Drop Off (Usually requires a truck or large space vehicle.)"},"icon":"ur-icon ur-icon-input-checkbox"},{"field_key":"radio","general_setting":{"label":"What level of commitment are you looking to give?","description":"","field_name":"radio_1649200007","options":["Once every few months.","Once a month.","Twice a month.","Weekly, if I can!","You need help? I'm there!"],"required":"yes","hide_label":"no"},"advance_setting":{"custom_class":"","options":"Once every few months.,Once a month.,Twice a month.,Weekly, if I can!,You need help? I'm there!"},"icon":"ur-icon ur-icon-radio"},{"field_key":"radio","general_setting":{"label":"Do you drive? Are you interested in transporting animals?","description":"","field_name":"radio_1649200123","options":["Yes, I have a vehicle and I'm interested in transporting animals.","No, I do not have a vehicle or I'm NOT interesting in transporting animals."],"required":"yes","hide_label":"no"},"advance_setting":{"custom_class":"","options":"Yes, I have a vehicle and I'm interested in transporting animals.,No, I do not have a vehicle or I'm NOT interesting in transporting animals."},"icon":"ur-icon ur-icon-radio"},{"field_key":"textarea","general_setting":{"label":"Please tell us about your professional skills you might be able to bring to No Kill Louisville.","description":"","field_name":"textarea_1649200183","placeholder":"","required":"no","hide_label":"no"},"advance_setting":{"default_value":"","custom_class":""},"icon":"ur-icon ur-icon-textarea"},{"field_key":"textarea","general_setting":{"label":"Do you have any questions for us?","description":"","field_name":"textarea_1649200195","placeholder":"","required":"no","hide_label":"no"},"advance_setting":{"default_value":"","custom_class":""},"icon":"ur-icon ur-icon-textarea"},{"field_key":"user_pass","general_setting":{"label":"User Password","description":"","field_name":"user_pass","placeholder":"","required":"yes","hide_label":"no"},"advance_setting":{"custom_class":""},"icon":"ur-icon ur-icon-password"},{"field_key":"user_confirm_password","general_setting":{"label":"Confirm Password","description":"","field_name":"user_confirm_password","placeholder":"","required":"yes","hide_label":"no"},"advance_setting":{"custom_class":""},"icon":"ur-icon ur-icon-password-confirm"}]]]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>354</wp:post_id>
-		<wp:post_date><![CDATA[2022-02-05 16:24:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-02-05 21:54:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-02-05 16:24:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-02-05 21:54:00]]></wp:post_modified_gmt>
+		<wp:post_id>552</wp:post_id>
+		<wp:post_date><![CDATA[2022-04-05 19:12:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-04-05 23:12:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-04-05 19:12:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-05 23:12:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[primary-menu]]></wp:post_name>
+		<wp:post_name><![CDATA[volunteer-form]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
+		<wp:post_type><![CDATA[user_registration]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[Pet Food Bank Provisions]]></title>
-		<link>https://capstonenokill.com/pet-food-bank-provisions-2/</link>
-		<pubDate>Sat, 05 Feb 2022 22:16:05 +0000</pubDate>
-		<dc:creator><![CDATA[Amanda]]></dc:creator>
-		<guid isPermaLink="false">https://capstonenokill.com/pet-food-bank-provisions-2/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"2013","type":"page","id":306,"url":"https://capstonenokill.com/pet-food-bank-provisions-2013/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"2014","type":"page","id":318,"url":"https://capstonenokill.com/pet-food-bank-provisions-2014/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"2015","type":"page","id":322,"url":"https://capstonenokill.com/pet-food-bank-provisions-2015/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"2016","type":"page","id":326,"url":"https://capstonenokill.com/pet-food-bank-provisions-2016/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"2017","type":"page","id":328,"url":"https://capstonenokill.com/pet-food-bank-provisions-2017/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"2018","type":"page","id":337,"url":"https://capstonenokill.com/pet-food-bank-provisions-2018/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"2019","type":"page","id":339,"url":"https://capstonenokill.com/pet-food-bank-provisions-2019/","kind":"post-type"} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>358</wp:post_id>
-		<wp:post_date><![CDATA[2022-02-05 16:46:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-02-05 22:16:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-02-05 16:46:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-02-05 22:16:05]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pet-food-bank-provisions-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[user_registration_form_setting_login_options]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin_approval]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[user_registration_form_setting_default_user_role]]></wp:meta_key>
+		<wp:meta_value><![CDATA[volunteer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[user_registration_form_setting_enable_strong_password]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[user_registration_form_setting_minimum_password_strength]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[user_registration_form_setting_redirect_options]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://capstonenokill.com/volunteer/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[user_registration_form_setting_form_submit_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[user_registration_form_setting_form_submit_label]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Submit]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[user_registration_form_setting_success_message_position]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[user_registration_form_setting_enable_recaptcha_support]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[user_registration_form_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[user_registration_form_custom_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 				</channel>
 </rss>
 	
